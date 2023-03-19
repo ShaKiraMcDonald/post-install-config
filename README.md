@@ -160,5 +160,5 @@ Help Topics will help streamline your end-user’s help desk experience to ensur
 <p align="center"><b><i>“Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.” —Socrates</p></b></i>
 <br />
 <br />
-<p align="right"> Next up, <a href="https://github.com/shakiramcdonald/ticket-lifecycle"
+<p align="right"> Next up <a href="https://github.com/shakiramcdonald/ticket-lifecycle"
 >Ticket Lifecycle </a></p>
